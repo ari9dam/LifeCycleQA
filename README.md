@@ -14,9 +14,8 @@ conda activate lifecycle
 conda install -c potassco clingo
 
 4. Install allennlp <br>
+git clone -b qr_theories <url>https://github.com/OyvindTafjord/allennlp.git</url> <br>
 
-git fetch <url>https://github.com/OyvindTafjord/allennlp.git</url> <br>
-git checkout qr_theories 
 
 4. navigate to the directory that contains the file "qa_demo.py"<br>
 
