@@ -13,6 +13,11 @@ conda activate lifecycle
 3. Install clingo ( for Answer Set Programming)<br>
 conda install -c potassco clingo
 
+4. Install allennlp <br>
+
+git fetch <url>https://github.com/OyvindTafjord/allennlp.git</url> <br>
+git checkout qr_theories 
+
 4. navigate to the directory that contains the file "qa_demo.py"<br>
 
 5. for the demo run : python qa_demo.py 
