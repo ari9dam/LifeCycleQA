@@ -16,7 +16,7 @@ conda install -c potassco clingo
 4. Install allennlp <br>
 git clone -b qr_theories <url>https://github.com/OyvindTafjord/allennlp.git</url> <br>
 INSTALL_TEST_REQUIREMENTS=true scripts/install_requirements.sh <br>
-You can test your installation with ./scripts/verify.py.
+You can test your installation with ./scripts/verify.py .
 
 4. navigate to the directory that contains the file "qa_demo.py"<br>
 
