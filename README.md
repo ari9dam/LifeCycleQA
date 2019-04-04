@@ -18,7 +18,11 @@ git clone -b qr_theories <url>https://github.com/OyvindTafjord/allennlp.git</url
 INSTALL_TEST_REQUIREMENTS=true scripts/install_requirements.sh <br>
 You can test your installation with ./scripts/verify.py .
 
-4. navigate to the directory that contains the file "qa_demo.py"<br>
+5. export PYTHONPATH=<path_to_allennlp><br>
+For e.g., export PYTHONPATH=/home/arindam/workspace/allennlp
 
-5. for the demo run : python qa_demo.py 
+6. Navigate to the directory inside the NatCyc code that contains the file "qa_demo.py"<br>
+
+7. For the demo run : python qa_demo.py 
+For sample questions see the /data/ folder inside the NatCyc directory. The demo version is cached, so you cannot write a new question.
 
