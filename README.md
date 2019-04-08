@@ -1,6 +1,6 @@
 # LifeCycleQA
 The data and the code for the paper titled "Declarative Question Answering over Knowledge Bases containing Natural Language Text with Answer Set Programming"
-Download the code from: https://drive.google.com/open?id=1U9MCalIe5i9ApLBGIHT-TbRRZRbzY2sm
+Download the code from: https://drive.google.com/file/d/1Lz_jm3d6mbkl1zza9N44JXbPw4s3aRUu/view?usp=drive_web
 
 ## Running the demo:
 
